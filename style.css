@@ -48,3 +48,43 @@ button{
     outline: 0;
     cursor: pointer;
 }
+.lamp-container{
+    position: absolute;
+    top: -20px;
+    left: 22%;
+    width: 200px;
+}
+.lamp{
+    width:100%;
+}
+.light{
+    position: absolute;
+    top: 97%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 800px;
+    margin-left: -10px;
+}
+.text-container{
+    max-width: 600px;
+    margin-top: 7%;
+    margin-left: 50%;
+}
+.text-container h1{
+    font-size: 80px;
+    font-weight: 400;
+}
+.text-container a{
+    text-decoration: none;
+    background: #00986f;
+    padding: 14px 40px;
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.control{
+    display: flex;
+    align-items: center;
+}
