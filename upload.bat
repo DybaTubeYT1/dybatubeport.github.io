@@ -7,6 +7,7 @@ git add --all
 cls
 echo FINISHED ADDING
 echo press ENTER to continue
+title Step 1/3 - finished adding to the commit
 pause >nul
 git commit -m "Initial commit"
 
