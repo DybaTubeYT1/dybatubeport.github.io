@@ -21,3 +21,7 @@ title Last step - Upload to the github server
 echo UPLOADING THE COMMIT
 pause >nul
 git push -u origin main
+cls
+title FINISHED
+echo you can press any key to leave
+pause >nul
