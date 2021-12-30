@@ -17,6 +17,8 @@ pause >nul
 git commit -m "Initial commit"
 title Step 2/3 - finished adding the commit
 echo FINISHED ADDING THE COMMIT TO THE GITHUB
+pause >nul
+cls
 title Last step - Upload to the github server
 echo UPLOADING THE COMMIT
 pause >nul
