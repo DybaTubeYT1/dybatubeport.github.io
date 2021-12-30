@@ -10,12 +10,12 @@ echo press any key to continue
 title Step 1/3 - finished adding to the commit
 pause >nul
 cls
-title Step 1/2 - add the commit
+title Step 2/3 - add the commit
 echo ADDING ALL THE COMMIT TO THE GITHUB
 echo press any key to continue
 pause >nul
 git commit -m "Initial commit"
-title Step 1/2 - finished adding the commit
+title Step 2/3 - finished adding the commit
 echo FINISHED ADDING THE COMMIT TO THE GITHUB
 title Last step - Upload to the github server
 echo UPLOADING THE COMMIT
