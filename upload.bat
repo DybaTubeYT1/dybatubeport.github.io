@@ -18,4 +18,6 @@ git commit -m "Initial commit"
 title Step 1/2 - finished adding the commit
 echo FINISHED ADDING THE COMMIT TO THE GITHUB
 title Last step - Upload to the github server
+echo UPLOADING THE COMMIT
+pause >nul
 git push -u origin main
